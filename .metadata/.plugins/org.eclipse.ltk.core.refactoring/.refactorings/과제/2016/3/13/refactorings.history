@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;과제.Scan&apos; to &apos;Homework_2_2&apos;&#x0D;&#x0A;- Original project: &apos;과제&apos;&#x0D;&#x0A;- Original element: &apos;과제.Scan&apos;&#x0D;&#x0A;- Renamed element: &apos;과제.Homework_2_2&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Scan&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;과제{Scan.java[Scan" matchStrategy="1" name="Homework_2_2" qualified="false" references="true" similarDeclarations="false" stamp="1458729766788" textual="false" version="1.0"/>
+</session>
